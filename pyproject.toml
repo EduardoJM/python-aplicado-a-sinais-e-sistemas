@@ -1,0 +1,4 @@
+[project]
+name="python_aplicado_a_sinais_e_sistemas"
+version = "0.0.1"
+dependencies = ["notebook", "sympy"]
